@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Elasticsearch: The Definitive Guide 2.x Chinese's documentation!
+Elasticsearch 权威指南!
 ===========================================================================
 
 Contents:
@@ -11,6 +11,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   getting_started
+   search_in_depth
+   dealing_with_human_language
+   aggregations
+   geolocation
+   modeling_your_data
+   ops
 
 
 Indices and tables
@@ -19,4 +26,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
