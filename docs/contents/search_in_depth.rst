@@ -2,7 +2,6 @@
 ===========================================================================
 
 .. toctree::
-  :maxdepth: 2
 
   search_in_depth/structured_search
   search_in_depth/fulltext_search

@@ -9,7 +9,7 @@ Elasticsearch 权威指南!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    contents/getting_started
    contents/search_in_depth
