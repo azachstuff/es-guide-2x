@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Elasticsearch: The Definitive Guide 2.x Chinese'
+project = u'Elasticsearch 权威指南'
 copyright = u'2016, azachstuff'
 author = u'azachstuff'
 
