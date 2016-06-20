@@ -11,13 +11,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   getting_started
-   search_in_depth
-   dealing_with_human_language
-   aggregations
-   geolocation
-   modeling_your_data
-   ops
+   contents/getting_started
+   contents/search_in_depth
+   contents/dealing_with_human_language
+   contents/aggregations
+   contents/geolocation
+   contents/modeling_your_data
+   contents/ops
 
 
 Indices and tables
